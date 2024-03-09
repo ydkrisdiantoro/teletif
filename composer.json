@@ -13,7 +13,6 @@
             "email": "y.d.krisdiantoro@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "guzzlehttp/guzzle": "7.9.x-dev"
     }
