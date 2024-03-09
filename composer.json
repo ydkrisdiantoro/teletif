@@ -1,0 +1,20 @@
+{
+    "name": "vonslab/teletif",
+    "description": "Mengelola pengiriman pesan bot telegram",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Vonslab\\Teletif\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yayan Dwi Krisdiantoro",
+            "email": "y.d.krisdiantoro@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "7.9.x-dev"
+    }
+}
